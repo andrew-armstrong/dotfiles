@@ -31,7 +31,6 @@ set termencoding=utf-8
 filetype on
 filetype plugin on
 filetype indent on
-set autoindent
 set showmatch
 
 " Bash-like tab completion
