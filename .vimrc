@@ -144,3 +144,4 @@ runtime macros/matchit.vim
 
 execute pathogen#infect()
 
+source ~/.vimrclocal
