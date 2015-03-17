@@ -19,7 +19,6 @@ set background=dark
 
 " Utility features
 set ruler
-set number
 set cursorline
 set history=1000
 set bs=2
@@ -143,5 +142,3 @@ set hlsearch
 runtime macros/matchit.vim
 
 execute pathogen#infect()
-
-source ~/.vimrclocal
