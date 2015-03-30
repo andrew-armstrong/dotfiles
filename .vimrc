@@ -30,7 +30,7 @@ set termencoding=utf-8
 " Turn plugin features on
 filetype on
 filetype plugin on
-filetype indent on
+"filetype indent on
 set showmatch
 
 " Bash-like tab completion
